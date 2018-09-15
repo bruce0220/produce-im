@@ -1,0 +1,1 @@
+产生spring项目通用的dao service等
